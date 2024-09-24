@@ -2,6 +2,9 @@
 
 ## Homework 1
 
+**Name**: Othmane Mahfoud
+**Group**: Number 9
+
 ### Instructions
 
 1. Please make sure you download the Group 9 data
